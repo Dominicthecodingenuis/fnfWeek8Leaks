@@ -1,0 +1,11 @@
+Possible release dates
+[7][10-30][22]
+[8][30][22]
+
+ if (CurVersion == 0.2.9) {
+ set var CurWeek = 8 + 'erect'
+ }
+ else {
+ set CurWeek = 7 + ''
+ }
+ 
